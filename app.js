@@ -1,2 +1,2 @@
 console.log("Hello")
-console.log("pang")
+console.log("pang puri")
